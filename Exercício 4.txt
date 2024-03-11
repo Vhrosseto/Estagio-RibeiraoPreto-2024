@@ -1,0 +1,13 @@
+Minha primeira visita:
+
+Ligo o primeiro interruptor e o mantenho ligado por alguns minutos.
+Em seguida, desligo o primeiro interruptor e, imediatamente, ligo o segundo interruptor.
+Deixo o segundo interruptor ligado.
+
+Quando entro na sala:
+
+A lâmpada acesa está conectada ao interruptor que liguei na primeira vez e desliguei antes de ligar o segundo interruptor.
+A lâmpada que está apagada, mas quente, está conectada ao interruptor que liguei na segunda vez.
+A lâmpada que está apagada e fria está conectada ao interruptor que não toquei.
+
+Dessa forma, consigo determinar qual interruptor controla cada lâmpada com apenas duas visitas a uma das salas das lâmpadas, utilizando os sinais de calor e o fato de que as lâmpadas acesas ficam quentes.
